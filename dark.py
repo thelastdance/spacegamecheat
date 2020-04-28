@@ -1,7 +1,3 @@
-"""
-DARK ORBIT HILE !
-"""
-
 import cv2
 import numpy as np
 import pyautogui
